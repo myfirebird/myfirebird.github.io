@@ -1,14 +1,3 @@
-Quickstart for GitHub Pages
-In this article
-
-    Introduction
-
-    Creating your website
-
-    Changing the title and description
-
-    Next Steps
-
 You can use GitHub Pages to showcase some open source projects, host a blog, or even share your résumé. This guide will help get you started on creating your next website.
 
 GitHub Pages is available in public repositories with GitHub Free and GitHub Free for organizations, and in public and private repositories with GitHub Pro, GitHub Team, GitHub Enterprise Cloud, and GitHub Enterprise Server. For more information, see "GitHub's products."
